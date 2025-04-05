@@ -1,0 +1,19 @@
+{
+  "name": "testchaiandmocha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/codecs": "^2.1.0",
+    "@solana/kit": "^2.1.0",
+    "@types/chai": "^5.2.1",
+    "chai": "^5.2.0",
+    "ts-node": "^10.9.2"
+  }
+}
